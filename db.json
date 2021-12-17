@@ -1,10 +1,11 @@
 {
-    "version":1,
-    "list":[
-        {
-            "name": "football",
-            "appId":10001,
-            "open":true
-        }
-    ]
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
