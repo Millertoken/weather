@@ -12,7 +12,7 @@
 			"title": "Post 3"
 		}
 	],
-	"comments": [{
+	"settingList": [{
 		"name": "football",
 		"appId": 10001,
 		"open": true
