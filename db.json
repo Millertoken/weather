@@ -1,15 +1,19 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello111"
-    },
-    {
-      "id": 2,
-      "title": "hello444"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+	"posts": [{
+			"id": 1,
+			"title": "hello111"
+		},
+		{
+			"id": 2,
+			"title": "hello444"
+		}
+	],
+	"list": [{
+		"name": "football",
+		"appId": 10001,
+		"open": true
+	}],
+	"profile": {
+		"name": "typicode"
+	}
 }
